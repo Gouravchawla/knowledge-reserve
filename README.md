@@ -3,3 +3,4 @@ The repository would contain whatever I'm learning and using in my normal workfl
 
 
 ## [VIM](vim.md)
+## [GIT](git.md)
