@@ -108,3 +108,10 @@
 
 4. See log in one line :
     `git log --oneline`
+
+5. Stash ([Problem statement](https://stackoverflow.com/questions/19216411/how-do-i-pull-files-from-remote-without-overwriting-local-files))
+    ```
+    git stash
+    git pull origin master
+    git stash pop
+    ```
