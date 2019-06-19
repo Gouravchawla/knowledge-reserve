@@ -115,3 +115,5 @@
     git pull origin master
     git stash pop
     ```
+
+6. Undo rebase ([Reflog & hard reset](https://stackoverflow.com/questions/134882/undoing-a-git-rebase))
